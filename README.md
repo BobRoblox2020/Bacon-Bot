@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @BobRoblox2020
+- 👀 I’m interested in Designing
+- 🌱 I’m currently learning JavaScript, LUA
+- 📫 How to reach my bot have verified badge?
