@@ -10,3 +10,11 @@ What Bacon Bot Have In UPDATE I?
  - Repeat What You Say
  - PONG!
 
+UPDATE II
+Date: July 17th, 2021
+Version: 1.1.0
+What Bacon Bot Have In UPDATE II?
+ - Music System
+ - Ticket Help Added
+ - Removed Repeat What You Say
+ - Mute, Meme Added
