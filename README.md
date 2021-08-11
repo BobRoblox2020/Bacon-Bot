@@ -2,3 +2,4 @@
 - 👀 I’m interested in Help Discord Users In Their Server
 - 🌱 I’m currently A New Discord Bot
 - 📫 How do i reach verified badge?
+- 🎵 Also Invite My Friend Bacon Bot Music: https://discord.com/api/oauth2/authorize?client_id=745913984053411841&permissions=8&redirect_uri=https%3A%2F%2Fdiscord.events.stdlib.com%2Fdiscord%2Fauth%2F&scope=bot
