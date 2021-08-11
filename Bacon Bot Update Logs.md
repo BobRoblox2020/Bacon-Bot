@@ -18,3 +18,11 @@ What Bacon Bot Have In UPDATE II?
  - Ticket Help Added
  - Removed Repeat What You Say
  - Mute, Meme Added
+ 
+SMALL UPDATE
+Date: August 11th, 2021
+Version: 1.2.0
+What Bacon Bot Have In UPDATE?
+ - Music System Closed
+ - Welcome System Added
+ - Anime Added
