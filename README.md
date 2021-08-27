@@ -7,5 +7,5 @@
  - You Can Support Us By Vote Bacon Hair Bot On [top.gg](https://top.gg/bot/848572095101272084) And [discordbotlist.com](https://discordbotlist.com/bots/bacon-hair-bot)
  - Also You Can Support Us By [This Bot](https://top.gg/bot/744114885209620492)!
 ## Discord Server
- - You Can Join Our Community On Discord!
  - [![Link](https://cdn.discordapp.com/attachments/879240705262907411/880724865324290068/lol.png)](https://discord.gg/MzyqmKTWNc)
+ - [Images Design](https://discord.gg/VjEDtSgk4Q)
