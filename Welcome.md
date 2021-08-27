@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Bacon Hair Bot
+- 👋 Hi, We Are Bacon Bots Team
 - 👀 I’m interested in Help Discord Users In Their Server
 - 🌱 I’m currently A New Discord Bot
 - 📫 How do i reach verified badge?
