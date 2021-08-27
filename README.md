@@ -8,4 +8,4 @@
  - Also You Can Support Us By [This Bot](https://top.gg/bot/744114885209620492)!
 ## Discord Server
  - You Can Join Our Community On Discord!
- - [![Link](https://cdn.discordapp.com/attachments/879240705262907411/880722333789216798/lol.png)](https://heroku.com/deploy?template=https://github.com/SudhanPlayz/Discord-MusicBot)
+ - [![Link](https://cdn.discordapp.com/attachments/879240705262907411/880724865324290068/lol.png)](https://discord.gg/MzyqmKTWNc)
