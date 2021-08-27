@@ -1,7 +1,7 @@
-This Is Bacon Bot Update Logs:
-Created: Bob Roblox
+This Is 🥓Bacon Bot🥓 Update Logs:
+Created: 🥓Bacon Bots Team🤖
 
-UPDATE I
+UPDATE I🔥
 Date: July 15th, 2021
 Version: 1.0.0
 What Bacon Bot Have In UPDATE I?
@@ -10,7 +10,7 @@ What Bacon Bot Have In UPDATE I?
  - Repeat What You Say
  - PONG!
 
-UPDATE II
+🔥UPDATE II🔥
 Date: July 17th, 2021
 Version: 1.1.0
 What Bacon Bot Have In UPDATE II?
@@ -19,7 +19,7 @@ What Bacon Bot Have In UPDATE II?
  - Removed Repeat What You Say
  - Mute, Meme Added
  
-SMALL UPDATE
+SMALL UPDATE🔥
 Date: August 11th, 2021
 Version: 1.2.0
 What Bacon Bot Have In UPDATE?
