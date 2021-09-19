@@ -8,4 +8,4 @@
  - Also You Can Support Us By [This Bot](https://top.gg/bot/744114885209620492)!
 ## 🔥Discord Server🔥
  - [![Link](https://cdn.discordapp.com/attachments/879240705262907411/880724865324290068/lol.png)](https://discord.gg/MzyqmKTWNc)
- - [![Image Design](https://cdn.discordapp.com/attachments/869776898740351086/889072931022442516/Umm.png)](https://discord.gg/VjEDtSgk4Q)
+ - [![Image Design](https://cdn.discordapp.com/attachments/879241317367046167/889074451222781952/Ez.png)](https://discord.gg/VjEDtSgk4Q)
