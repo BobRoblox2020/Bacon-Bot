@@ -1,4 +1,4 @@
-This is 🥓Bacon Bot Music🎵 Update Log!
+## This is 🥓Bacon Bot Music🎵 Update Log!
 
 ## 🔥UPDATE I🔥
 - 📅Date: August 1st 2021
@@ -25,3 +25,5 @@ This is 🥓Bacon Bot Music🎵 Update Log!
   + Removed Buttons
   + Slash Commands Added!
   + Moving From Youtube API to Spotify API
+
+## ❌Currently Bot Is Closed❌
