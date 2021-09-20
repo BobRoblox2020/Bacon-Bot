@@ -31,3 +31,5 @@
   + Because We Are Making Bot Using Spotify API
 - ❌ Is it shutdown?
   + No Because We Just Stop Bacon Bot Music Service Because We Were Use Youtube API as main for Music service.
+- Why We Can't Invite Him Anymore?
+  + Because We Set The Bot To Private(Only We Can Use It.)
