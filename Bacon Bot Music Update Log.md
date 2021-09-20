@@ -28,6 +28,6 @@
 
 ## ❌Currently Bot Is Closed❌
 - 💁‍♂️Why?
- + Because We Are Making Bot Using Spotify API
+  + Because We Are Making Bot Using Spotify API
 - ❌ Is it shutdown?
- + No Because We Just Stop Bacon Bot Music Service Because We Were Use Youtube API as main for Music service.
+  + No Because We Just Stop Bacon Bot Music Service Because We Were Use Youtube API as main for Music service.
