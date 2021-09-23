@@ -17,6 +17,7 @@
 - What Version 1.12.0 Have?
   + New Help Menu!
   + Added Buttons!
+  + New 🥓Bacon Bot Music 2🤖!
 ## 🔥UPDATE IV🔥
 - 📅Date: September 18th 2021
 - Version: 1.15.0
